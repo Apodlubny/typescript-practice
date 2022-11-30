@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Apodlubny/typescript-practice/issues"
   },
-  "homepage": "https://github.com/Apodlubny/typescript-practice#readme"
+  "homepage": "https://github.com/Apodlubny/typescript-practice#readme",
+  "dependencies": {
+    "axios": "^1.2.0"
+  }
 }
